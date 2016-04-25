@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cvaleriiflaccia00flacgoog_0144.png"; bbox 0 0 2750 4659; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 116 1418 935 1534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 116 1418 935 1534">
+     <span class='ocr_line' id='line_1_1' title="bbox 116 1418 935 1534; baseline 0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 116 1423 188 1531; x_wconf 84' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_2' title='bbox 240 1418 586 1533; x_wconf 84' lang='lat' dir='ltr'><strong>VALERII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 633 1420 935 1534; x_wconf 77' lang='lat' dir='ltr'><strong>FLACCI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 208 1650 1034 1811">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 1650 1034 1811">
+     <span class='ocr_line' id='line_1_2' title="bbox 208 1650 1034 1811; baseline 0.001 -6"><span class='ocrx_word' id='word_1_4' title='bbox 208 1719 525 1811; x_wconf 60' lang='grc' dir='ltr'><strong>λεΕτΙΝι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 580 1650 894 1810; x_wconf 66' lang='lat' dir='ltr'><strong>num</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1028 1751 1034 1763; x_wconf 92' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 19 2000 1105 2149">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 19 1907 1105 2173">
+     <span class='ocr_line' id='line_1_3' title="bbox 19 2000 1105 2149; baseline 0.012 -22"><span class='ocrx_word' id='word_1_7' title='bbox 19 2000 1018 2149; x_wconf 42' lang='lat' dir='ltr'>‚A‘RGONAuncoN</span> <span class='ocrx_word' id='word_1_8' title='bbox 1096 2094 1105 2099; x_wconf 82' lang='grc'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 184 2298 1065 2413">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 184 2298 1065 2413">
+     <span class='ocr_line' id='line_1_4' title="bbox 184 2298 1065 2413; baseline -0.001 -6"><span class='ocrx_word' id='word_1_9' title='bbox 184 2332 410 2409; x_wconf 68' lang='lat' dir='ltr'><strong>unna</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 465 2332 901 2413; x_wconf 60' lang='lat' dir='ltr'><strong>sueonum»</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1058 2298 1065 2303; x_wconf 77' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1380 4659">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1380 4659">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1380 4659; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1380 4659; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
